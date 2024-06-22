@@ -2,21 +2,6 @@
 
 This Python program provides a simple interface to encode and decode messages. The user can choose to encode a message, decode a message, or quit the program. The encoding and decoding processes are based on specific patterns defined within the program.
 
-## Features
-
-### Encoding Messages
-- The user can enter a message to encode.
-- If the length of the message is greater than 3, it performs a series of transformations on the message.
-- If the length of the message is 3 or less, it concatenates some of its characters in a specific way.
-
-### Decoding Messages
-- The user can enter a message to decode made in program.
-- If the length of the message is greater than 5, it attempts to reverse the encoding pattern.
-- If the length of the message is 5 or less, it performs a simple transformation to attempt to decode the message.
-
-### Quit Option
-- The user can choose to quit the program.
-
 ## How to Use
 
 1. **Run the program.**
